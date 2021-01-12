@@ -10,5 +10,6 @@ Nice
 
 ### Un-Salutations
 
-![stats](https://github-readme-stats.vercel.app/api?username=yousefh409&&show_icons=true&icon_color=737373&title_color=226e39&text_color=737373&bg_color=F0FFF4&hide=[%22prs%22])
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yousefh409&&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefh409&layout=compact&hide_border=true&card_width=250"/>
 
