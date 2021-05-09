@@ -4,9 +4,7 @@ I am Yousef
 
 My email is yousefh409@gmail.com
 
-I am a student at De Anza College, double-majoring in Computer Science and Electrical Engineering
-
-Nice
+I am a student at UC Berkeley, majoring in Electrical Engineering and Computer Science
 
 ### Un-Salutations
 
